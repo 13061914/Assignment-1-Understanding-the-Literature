@@ -1,6 +1,4 @@
 # Assignment-1-Understanding-the-Literature
-31005 Machine Learning Spring 2019
-
 Review Report on "Eigenfaces vs. Fisherfaces: Recognition Using Class Specific Linear Projection"
 
 Introduction
